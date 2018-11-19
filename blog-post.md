@@ -12,6 +12,8 @@ tool to create this.
 
 <iframe src='https://public.flourish.studio/visualisation/155633/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/155633/?utm_source=embed&utm_campaign=visualisation/155633' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+![Chord diagram downloaded from Flourish](/outputs/360g-recipients-in-common.png)
+
 The steps for doing this are:
 
 1. Download the data we need from [GrantNav](http://grantnav.threesixtygiving.org/) - 
@@ -29,7 +31,7 @@ to the chord diagram.
 
 To do this data preparation I've used the Python programming language, and the
 [pandas](https://pandas.pydata.org/) data analysis library. You can see the
-code used to produce the source data in a [python notebook](/Prepare chord diagram.ipynb).
+code used to produce the source data in a [python notebook](/prepare-chord-diagram.ipynb).
 
 This kind of analysis is only possible when grantmakers use consistent
 identifiers for the organisations they fund. By using a common identifier
