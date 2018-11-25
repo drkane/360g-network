@@ -1,6 +1,6 @@
 Funder from,Funder to,grants
 A B Charitable Trust,The Big Lottery Fund,16
-A B Charitable Trust,Lloyds Bank Foundation E&W,12
+A B Charitable Trust,Lloyds Bank Foundation for England and Wales,12
 A B Charitable Trust,Garfield Weston Foundation,10
 A B Charitable Trust,Trust for London,6
 A B Charitable Trust,The Tudor Trust,4
@@ -8,87 +8,87 @@ A B Charitable Trust,City Bridge Trust,3
 A B Charitable Trust,Joseph Rowntree Charitable Trust,3
 A B Charitable Trust,The Clothworkers Foundation,3
 A B Charitable Trust,Co-operative Group,2
+A B Charitable Trust,Community Foundation serving Tyne & Wear and Northumberland,2
 A B Charitable Trust,The Robertson Trust,2
-A B Charitable Trust,"Community Foundation (Tyne, Wear & Nhbld)",2
-A B Charitable Trust,Masonic Charitable Foundation,1
 A B Charitable Trust,Essex Community Foundation,1
-A B Charitable Trust,SCVO,1
-A B Charitable Trust,Indigo Trust,1
+A B Charitable Trust,Masonic Charitable Foundation,1
+A B Charitable Trust,Barrow Cadbury Trust,1
 A B Charitable Trust,Oxford City Council,1
-A B Charitable Trust,The Henry Smith Charity,1
-A B Charitable Trust,United St Saviour's Charity,1
+A B Charitable Trust,Scottish Council For Voluntary Organisations,1
+A B Charitable Trust,Three Guineas Trust,1
 A B Charitable Trust,Tuixen Foundation,1
 A B Charitable Trust,Corra Foundation,1
-A B Charitable Trust,Barrow Cadbury Trust,1
-A B Charitable Trust,Three Guineas Trust,1
-A B Charitable Trust,Esmee Fairbairn Foundation,1
+A B Charitable Trust,Indigo Trust,1
+A B Charitable Trust,United St Saviour's Charity,1
 A B Charitable Trust,Woodward Charitable Trust,1
-ARCADIA,Greater London Authority,1
+A B Charitable Trust,Esmée Fairbairn Foundation,1
+A B Charitable Trust,The Henry Smith Charity,1
 ARCADIA,Garfield Weston Foundation,1
-Barrow Cadbury Trust,Trust for London,3
-Barrow Cadbury Trust,Esmee Fairbairn Foundation,3
+ARCADIA,Greater London Authority,1
+Barrow Cadbury Trust,Esmée Fairbairn Foundation,3
 Barrow Cadbury Trust,The Big Lottery Fund,3
+Barrow Cadbury Trust,Trust for London,3
 Barrow Cadbury Trust,Lankelly Chase Foundation,2
 Barrow Cadbury Trust,The Tudor Trust,2
-Barrow Cadbury Trust,A B Charitable Trust,1
+Barrow Cadbury Trust,Lloyds Bank Foundation for England and Wales,1
 Barrow Cadbury Trust,Comic Relief,1
-Barrow Cadbury Trust,Samworth Foundation,1
-Barrow Cadbury Trust,Nesta,1
 Barrow Cadbury Trust,Tedworth Charitable Trust,1
+Barrow Cadbury Trust,A B Charitable Trust,1
+Barrow Cadbury Trust,Nesta,1
 Barrow Cadbury Trust,Joseph Rowntree Charitable Trust,1
+Barrow Cadbury Trust,Samworth Foundation,1
 Barrow Cadbury Trust,London Councils,1
-Barrow Cadbury Trust,Lloyds Bank Foundation E&W,1
 Birmingham City Council,Heart Of England Community Foundation,4
 Birmingham City Council,The Big Lottery Fund,2
+Birmingham City Council,Garfield Weston Foundation,1
 Birmingham City Council,Co-operative Group,1
 Birmingham City Council,Sport England,1
-Birmingham City Council,Garfield Weston Foundation,1
 Birmingham City Council,Somerset Community Foundation,1
 Cheshire Community Foundation,Co-operative Group,19
 Cheshire Community Foundation,The Big Lottery Fund,14
 Cheshire Community Foundation,Garfield Weston Foundation,11
-Cheshire Community Foundation,Lloyds Bank Foundation E&W,3
+Cheshire Community Foundation,Lloyds Bank Foundation for England and Wales,3
 Cheshire Community Foundation,Quartet Community Foundation,2
 Cheshire Community Foundation,The Blagrave Trust,1
-Cheshire Community Foundation,Greater London Authority,1
-Cheshire Community Foundation,The Clothworkers Foundation,1
-Cheshire Community Foundation,The Tudor Trust,1
 Cheshire Community Foundation,The Dulverton Trust,1
+Cheshire Community Foundation,The Clothworkers Foundation,1
+Cheshire Community Foundation,Greater London Authority,1
+Cheshire Community Foundation,The Tudor Trust,1
 City Bridge Trust,The Big Lottery Fund,36
 City Bridge Trust,Garfield Weston Foundation,17
 City Bridge Trust,Co-operative Group,13
 City Bridge Trust,The Tudor Trust,11
-City Bridge Trust,Lloyds Bank Foundation E&W,7
+City Bridge Trust,Lloyds Bank Foundation for England and Wales,7
 City Bridge Trust,Trust for London,7
-City Bridge Trust,Esmee Fairbairn Foundation,5
+City Bridge Trust,Esmée Fairbairn Foundation,5
 City Bridge Trust,The Clothworkers Foundation,4
-City Bridge Trust,Quartet Community Foundation,3
 City Bridge Trust,A B Charitable Trust,3
+City Bridge Trust,Quartet Community Foundation,3
 City Bridge Trust,The Henry Smith Charity,3
+City Bridge Trust,United St Saviour's Charity,2
 City Bridge Trust,Joseph Rowntree Charitable Trust,2
 City Bridge Trust,The Dunhill Medical Trust,2
-City Bridge Trust,United St Saviour's Charity,2
 City Bridge Trust,London Borough of Barnet,2
 City Bridge Trust,Greater London Authority,2
-City Bridge Trust,National Churches Trust,1
-City Bridge Trust,Somerset Community Foundation,1
-City Bridge Trust,London Councils,1
 City Bridge Trust,Pears Foundation,1
+City Bridge Trust,London Councils,1
+City Bridge Trust,The David & Elaine Potter Foundation,1
 City Bridge Trust,Comic Relief,1
 City Bridge Trust,Woodward Charitable Trust,1
+City Bridge Trust,Somerset Community Foundation,1
 City Bridge Trust,Tuixen Foundation,1
-City Bridge Trust,The David & Elaine Potter Foundation,1
-City Bridge Trust,Indigo Trust,1
 City Bridge Trust,Seafarers UK,1
+City Bridge Trust,Indigo Trust,1
+City Bridge Trust,National Churches Trust,1
 Co-operative Group,The Big Lottery Fund,500
 Co-operative Group,Garfield Weston Foundation,204
 Co-operative Group,The Robertson Trust,59
 Co-operative Group,Quartet Community Foundation,53
-Co-operative Group,Lloyds Bank Foundation E&W,51
+Co-operative Group,Lloyds Bank Foundation for England and Wales,51
 Co-operative Group,The Tudor Trust,41
 Co-operative Group,Corra Foundation,39
 Co-operative Group,The Clothworkers Foundation,32
-Co-operative Group,"Community Foundation (Tyne, Wear & Nhbld)",28
+Co-operative Group,Community Foundation serving Tyne & Wear and Northumberland,28
 Co-operative Group,Woodward Charitable Trust,27
 Co-operative Group,Cheshire Community Foundation,19
 Co-operative Group,Sport England,19
@@ -96,456 +96,456 @@ Co-operative Group,Sussex Community Foundation,18
 Co-operative Group,Somerset Community Foundation,17
 Co-operative Group,Heart Of England Community Foundation,16
 Co-operative Group,Devon Community Foundation,14
+Co-operative Group,Essex Community Foundation,13
 Co-operative Group,Two Ridings Community Foundation,13
 Co-operative Group,City Bridge Trust,13
-Co-operative Group,Essex Community Foundation,13
 Co-operative Group,The Henry Smith Charity,12
 Co-operative Group,Community Foundation for Surrey,12
 Co-operative Group,R S Macdonald Charitable Trust,10
 Co-operative Group,Masonic Charitable Foundation,9
-Co-operative Group,SCVO,9
-Co-operative Group,Esmee Fairbairn Foundation,8
+Co-operative Group,Scottish Council For Voluntary Organisations,9
+Co-operative Group,Esmée Fairbairn Foundation,8
 Co-operative Group,The Joseph Rank Trust,6
-Co-operative Group,John Moores Foundation,6
 Co-operative Group,Wiltshire Community Foundation,6
-Co-operative Group,Seafarers UK,5
+Co-operative Group,John Moores Foundation,6
 Co-operative Group,The Dunhill Medical Trust,5
-Co-operative Group,Oxfordshire Community Foundation,4
+Co-operative Group,Seafarers UK,5
 Co-operative Group,Trust for London,4
 Co-operative Group,National Churches Trust,4
-Co-operative Group,True Colours Trust,3
+Co-operative Group,Oxfordshire Community Foundation,4
 Co-operative Group,London Borough of Barnet,3
-Co-operative Group,United St Saviour's Charity,3
 Co-operative Group,The Dulverton Trust,3
 Co-operative Group,Three Guineas Trust,3
+Co-operative Group,United St Saviour's Charity,3
+Co-operative Group,True Colours Trust,3
+Co-operative Group,Pears Foundation,2
 Co-operative Group,A B Charitable Trust,2
 Co-operative Group,Joseph Rowntree Foundation,2
-Co-operative Group,Pears Foundation,2
 Co-operative Group,Walcot Foundation,2
-Co-operative Group,Lankelly Chase Foundation,1
+Co-operative Group,Tedworth Charitable Trust,1
 Co-operative Group,Virgin Money Foundation,1
-Co-operative Group,Comic Relief,1
 Co-operative Group,Trafford Housing Trust Social Investment,1
-Co-operative Group,Nesta,1
+Co-operative Group,Tuixen Foundation,1
 Co-operative Group,Birmingham City Council,1
+Co-operative Group,Lankelly Chase Foundation,1
 Co-operative Group,Greater London Authority,1
 Co-operative Group,Road Safety Trust,1
-Co-operative Group,Macc,1
-Co-operative Group,Tedworth Charitable Trust,1
-Co-operative Group,Tuixen Foundation,1
+Co-operative Group,Comic Relief,1
 Co-operative Group,Indigo Trust,1
+Co-operative Group,Nesta,1
+Co-operative Group,Macc,1
 Comic Relief,The Big Lottery Fund,6
 Comic Relief,Sport England,4
-Comic Relief,Esmee Fairbairn Foundation,2
-Comic Relief,The Tudor Trust,2
 Comic Relief,The Clothworkers Foundation,2
 Comic Relief,Garfield Weston Foundation,2
-Comic Relief,Barrow Cadbury Trust,1
-Comic Relief,Co-operative Group,1
+Comic Relief,Esmée Fairbairn Foundation,2
+Comic Relief,The Tudor Trust,2
+Comic Relief,City Bridge Trust,1
 Comic Relief,Heart Of England Community Foundation,1
+Comic Relief,Co-operative Group,1
 Comic Relief,Trust for London,1
 Comic Relief,London Councils,1
-Comic Relief,City Bridge Trust,1
+Comic Relief,Barrow Cadbury Trust,1
 Community Foundation for Surrey,The Big Lottery Fund,16
 Community Foundation for Surrey,Co-operative Group,12
 Community Foundation for Surrey,Garfield Weston Foundation,4
+Community Foundation for Surrey,The Clothworkers Foundation,2
 Community Foundation for Surrey,Sussex Community Foundation,2
 Community Foundation for Surrey,Woodward Charitable Trust,2
-Community Foundation for Surrey,The Clothworkers Foundation,2
+Community Foundation for Surrey,Lloyds Bank Foundation for England and Wales,1
+Community Foundation for Surrey,Heart Of England Community Foundation,1
+Community Foundation for Surrey,True Colours Trust,1
+Community Foundation for Surrey,John Moores Foundation,1
+Community Foundation for Surrey,Essex Community Foundation,1
+Community Foundation for Surrey,Two Ridings Community Foundation,1
 Community Foundation for Surrey,The Blagrave Trust,1
 Community Foundation for Surrey,Devon Community Foundation,1
-Community Foundation for Surrey,Two Ridings Community Foundation,1
-Community Foundation for Surrey,True Colours Trust,1
-Community Foundation for Surrey,Heart Of England Community Foundation,1
-Community Foundation for Surrey,John Moores Foundation,1
-Community Foundation for Surrey,Lloyds Bank Foundation E&W,1
-Community Foundation for Surrey,Essex Community Foundation,1
-"Community Foundation (Tyne, Wear & Nhbld)",Co-operative Group,28
-"Community Foundation (Tyne, Wear & Nhbld)",The Big Lottery Fund,21
-"Community Foundation (Tyne, Wear & Nhbld)",Garfield Weston Foundation,12
-"Community Foundation (Tyne, Wear & Nhbld)",Virgin Money Foundation,7
-"Community Foundation (Tyne, Wear & Nhbld)",The Henry Smith Charity,3
-"Community Foundation (Tyne, Wear & Nhbld)",The Tudor Trust,3
-"Community Foundation (Tyne, Wear & Nhbld)",Woodward Charitable Trust,3
-"Community Foundation (Tyne, Wear & Nhbld)",A B Charitable Trust,2
-"Community Foundation (Tyne, Wear & Nhbld)",The Clothworkers Foundation,2
-"Community Foundation (Tyne, Wear & Nhbld)",Esmee Fairbairn Foundation,1
-"Community Foundation (Tyne, Wear & Nhbld)",Three Guineas Trust,1
-"Community Foundation (Tyne, Wear & Nhbld)",True Colours Trust,1
-"Community Foundation (Tyne, Wear & Nhbld)",Heart Of England Community Foundation,1
-"Community Foundation (Tyne, Wear & Nhbld)",Lloyds Bank Foundation E&W,1
+Community Foundation serving Tyne & Wear and Northumberland,Co-operative Group,28
+Community Foundation serving Tyne & Wear and Northumberland,The Big Lottery Fund,21
+Community Foundation serving Tyne & Wear and Northumberland,Garfield Weston Foundation,12
+Community Foundation serving Tyne & Wear and Northumberland,Virgin Money Foundation,7
+Community Foundation serving Tyne & Wear and Northumberland,Woodward Charitable Trust,3
+Community Foundation serving Tyne & Wear and Northumberland,The Tudor Trust,3
+Community Foundation serving Tyne & Wear and Northumberland,The Henry Smith Charity,3
+Community Foundation serving Tyne & Wear and Northumberland,The Clothworkers Foundation,2
+Community Foundation serving Tyne & Wear and Northumberland,A B Charitable Trust,2
+Community Foundation serving Tyne & Wear and Northumberland,Lloyds Bank Foundation for England and Wales,1
+Community Foundation serving Tyne & Wear and Northumberland,Heart Of England Community Foundation,1
+Community Foundation serving Tyne & Wear and Northumberland,True Colours Trust,1
+Community Foundation serving Tyne & Wear and Northumberland,Esmée Fairbairn Foundation,1
+Community Foundation serving Tyne & Wear and Northumberland,Three Guineas Trust,1
 Corra Foundation,The Robertson Trust,49
 Corra Foundation,Co-operative Group,39
 Corra Foundation,The Big Lottery Fund,38
 Corra Foundation,Garfield Weston Foundation,14
 Corra Foundation,R S Macdonald Charitable Trust,13
-Corra Foundation,SCVO,9
+Corra Foundation,Scottish Council For Voluntary Organisations,9
 Corra Foundation,The Clothworkers Foundation,4
-Corra Foundation,Esmee Fairbairn Foundation,2
-Corra Foundation,The Tudor Trust,2
 Corra Foundation,Seafarers UK,2
+Corra Foundation,Esmée Fairbairn Foundation,2
+Corra Foundation,The Tudor Trust,2
 Corra Foundation,The Henry Smith Charity,1
-Corra Foundation,Glasgow City Council,1
 Corra Foundation,A B Charitable Trust,1
-Corra Foundation,The Joseph Rank Trust,1
 Corra Foundation,Woodward Charitable Trust,1
-Culham St Gabriel's Trust,The Tudor Trust,1
-Culham St Gabriel's Trust,The Big Lottery Fund,1
-Culham St Gabriel's Trust,The Dulverton Trust,1
+Corra Foundation,Glasgow City Council,1
+Corra Foundation,The Joseph Rank Trust,1
 Culham St Gabriel's Trust,Garfield Weston Foundation,1
+Culham St Gabriel's Trust,The Dulverton Trust,1
+Culham St Gabriel's Trust,The Big Lottery Fund,1
+Culham St Gabriel's Trust,The Tudor Trust,1
 Devon Community Foundation,Co-operative Group,14
 Devon Community Foundation,The Big Lottery Fund,13
 Devon Community Foundation,Garfield Weston Foundation,5
-Devon Community Foundation,Community Foundation for Surrey,1
-Devon Community Foundation,Woodward Charitable Trust,1
-Devon Community Foundation,Seafarers UK,1
-Devon Community Foundation,The Clothworkers Foundation,1
-Devon Community Foundation,Quartet Community Foundation,1
-Devon Community Foundation,Somerset Community Foundation,1
-Devon Community Foundation,Sport England,1
+Devon Community Foundation,Lloyds Bank Foundation for England and Wales,1
 Devon Community Foundation,The Tudor Trust,1
-Devon Community Foundation,Lloyds Bank Foundation E&W,1
-Esmee Fairbairn Foundation,The Big Lottery Fund,34
-Esmee Fairbairn Foundation,Garfield Weston Foundation,19
-Esmee Fairbairn Foundation,The Tudor Trust,12
-Esmee Fairbairn Foundation,Lloyds Bank Foundation E&W,9
-Esmee Fairbairn Foundation,Trust for London,8
-Esmee Fairbairn Foundation,Co-operative Group,8
-Esmee Fairbairn Foundation,City Bridge Trust,5
-Esmee Fairbairn Foundation,Joseph Rowntree Charitable Trust,5
-Esmee Fairbairn Foundation,Barrow Cadbury Trust,3
-Esmee Fairbairn Foundation,Samworth Foundation,3
-Esmee Fairbairn Foundation,The Dulverton Trust,3
-Esmee Fairbairn Foundation,The Blagrave Trust,2
-Esmee Fairbairn Foundation,The David & Elaine Potter Foundation,2
-Esmee Fairbairn Foundation,Pears Foundation,2
-Esmee Fairbairn Foundation,Comic Relief,2
-Esmee Fairbairn Foundation,Corra Foundation,2
-Esmee Fairbairn Foundation,Quartet Community Foundation,1
-Esmee Fairbairn Foundation,The Clothworkers Foundation,1
-Esmee Fairbairn Foundation,Tedworth Charitable Trust,1
-Esmee Fairbairn Foundation,Tuixen Foundation,1
-Esmee Fairbairn Foundation,Indigo Trust,1
-Esmee Fairbairn Foundation,The Henry Smith Charity,1
-Esmee Fairbairn Foundation,True Colours Trust,1
-Esmee Fairbairn Foundation,Sussex Community Foundation,1
-Esmee Fairbairn Foundation,Masonic Charitable Foundation,1
-Esmee Fairbairn Foundation,A B Charitable Trust,1
-Esmee Fairbairn Foundation,London Councils,1
-Esmee Fairbairn Foundation,Two Ridings Community Foundation,1
-Esmee Fairbairn Foundation,The Robertson Trust,1
-Esmee Fairbairn Foundation,"Community Foundation (Tyne, Wear & Nhbld)",1
+Devon Community Foundation,Sport England,1
+Devon Community Foundation,Quartet Community Foundation,1
+Devon Community Foundation,Seafarers UK,1
+Devon Community Foundation,Community Foundation for Surrey,1
+Devon Community Foundation,The Clothworkers Foundation,1
+Devon Community Foundation,Somerset Community Foundation,1
+Devon Community Foundation,Woodward Charitable Trust,1
+Esmée Fairbairn Foundation,The Big Lottery Fund,34
+Esmée Fairbairn Foundation,Garfield Weston Foundation,19
+Esmée Fairbairn Foundation,The Tudor Trust,12
+Esmée Fairbairn Foundation,Lloyds Bank Foundation for England and Wales,9
+Esmée Fairbairn Foundation,Trust for London,8
+Esmée Fairbairn Foundation,Co-operative Group,8
+Esmée Fairbairn Foundation,City Bridge Trust,5
+Esmée Fairbairn Foundation,Joseph Rowntree Charitable Trust,5
+Esmée Fairbairn Foundation,Barrow Cadbury Trust,3
+Esmée Fairbairn Foundation,The Dulverton Trust,3
+Esmée Fairbairn Foundation,Samworth Foundation,3
+Esmée Fairbairn Foundation,The Blagrave Trust,2
+Esmée Fairbairn Foundation,The David & Elaine Potter Foundation,2
+Esmée Fairbairn Foundation,Pears Foundation,2
+Esmée Fairbairn Foundation,Comic Relief,2
+Esmée Fairbairn Foundation,Corra Foundation,2
+Esmée Fairbairn Foundation,Sussex Community Foundation,1
+Esmée Fairbairn Foundation,Tuixen Foundation,1
+Esmée Fairbairn Foundation,Indigo Trust,1
+Esmée Fairbairn Foundation,A B Charitable Trust,1
+Esmée Fairbairn Foundation,Tedworth Charitable Trust,1
+Esmée Fairbairn Foundation,True Colours Trust,1
+Esmée Fairbairn Foundation,London Councils,1
+Esmée Fairbairn Foundation,Masonic Charitable Foundation,1
+Esmée Fairbairn Foundation,Two Ridings Community Foundation,1
+Esmée Fairbairn Foundation,The Robertson Trust,1
+Esmée Fairbairn Foundation,Quartet Community Foundation,1
+Esmée Fairbairn Foundation,The Clothworkers Foundation,1
+Esmée Fairbairn Foundation,Community Foundation serving Tyne & Wear and Northumberland,1
+Esmée Fairbairn Foundation,The Henry Smith Charity,1
 Essex Community Foundation,The Big Lottery Fund,18
 Essex Community Foundation,Co-operative Group,13
 Essex Community Foundation,Garfield Weston Foundation,11
 Essex Community Foundation,Quartet Community Foundation,6
-Essex Community Foundation,The Clothworkers Foundation,2
-Essex Community Foundation,Lloyds Bank Foundation E&W,2
 Essex Community Foundation,Two Ridings Community Foundation,2
 Essex Community Foundation,The Dulverton Trust,2
-Essex Community Foundation,Woodward Charitable Trust,2
 Essex Community Foundation,Somerset Community Foundation,2
-Essex Community Foundation,Community Foundation for Surrey,1
-Essex Community Foundation,Oxfordshire Community Foundation,1
-Essex Community Foundation,True Colours Trust,1
+Essex Community Foundation,Lloyds Bank Foundation for England and Wales,2
+Essex Community Foundation,The Clothworkers Foundation,2
+Essex Community Foundation,Woodward Charitable Trust,2
 Essex Community Foundation,Heart Of England Community Foundation,1
-Essex Community Foundation,Joseph Rowntree Foundation,1
-Essex Community Foundation,Wiltshire Community Foundation,1
 Essex Community Foundation,A B Charitable Trust,1
+Essex Community Foundation,Wiltshire Community Foundation,1
+Essex Community Foundation,Community Foundation for Surrey,1
+Essex Community Foundation,Joseph Rowntree Foundation,1
+Essex Community Foundation,True Colours Trust,1
+Essex Community Foundation,Oxfordshire Community Foundation,1
 Garfield Weston Foundation,The Big Lottery Fund,206
 Garfield Weston Foundation,Co-operative Group,204
 Garfield Weston Foundation,The Clothworkers Foundation,39
-Garfield Weston Foundation,Lloyds Bank Foundation E&W,32
+Garfield Weston Foundation,Lloyds Bank Foundation for England and Wales,32
 Garfield Weston Foundation,The Tudor Trust,28
 Garfield Weston Foundation,The Robertson Trust,21
-Garfield Weston Foundation,Esmee Fairbairn Foundation,19
+Garfield Weston Foundation,Esmée Fairbairn Foundation,19
 Garfield Weston Foundation,City Bridge Trust,17
 Garfield Weston Foundation,The Dulverton Trust,17
 Garfield Weston Foundation,Woodward Charitable Trust,15
-Garfield Weston Foundation,Quartet Community Foundation,14
 Garfield Weston Foundation,Corra Foundation,14
+Garfield Weston Foundation,Quartet Community Foundation,14
 Garfield Weston Foundation,National Churches Trust,13
 Garfield Weston Foundation,The Joseph Rank Trust,13
-Garfield Weston Foundation,"Community Foundation (Tyne, Wear & Nhbld)",12
-Garfield Weston Foundation,Essex Community Foundation,11
+Garfield Weston Foundation,Community Foundation serving Tyne & Wear and Northumberland,12
 Garfield Weston Foundation,Cheshire Community Foundation,11
-Garfield Weston Foundation,A B Charitable Trust,10
+Garfield Weston Foundation,Essex Community Foundation,11
 Garfield Weston Foundation,Heart Of England Community Foundation,10
+Garfield Weston Foundation,A B Charitable Trust,10
 Garfield Weston Foundation,The Henry Smith Charity,9
 Garfield Weston Foundation,Somerset Community Foundation,5
-Garfield Weston Foundation,Tuixen Foundation,5
-Garfield Weston Foundation,Two Ridings Community Foundation,5
-Garfield Weston Foundation,R S Macdonald Charitable Trust,5
 Garfield Weston Foundation,The Dunhill Medical Trust,5
 Garfield Weston Foundation,Devon Community Foundation,5
-Garfield Weston Foundation,Seafarers UK,4
-Garfield Weston Foundation,Sport England,4
-Garfield Weston Foundation,Sussex Community Foundation,4
-Garfield Weston Foundation,Community Foundation for Surrey,4
+Garfield Weston Foundation,R S Macdonald Charitable Trust,5
+Garfield Weston Foundation,Two Ridings Community Foundation,5
+Garfield Weston Foundation,Tuixen Foundation,5
 Garfield Weston Foundation,True Colours Trust,4
+Garfield Weston Foundation,Sport England,4
+Garfield Weston Foundation,Community Foundation for Surrey,4
+Garfield Weston Foundation,Sussex Community Foundation,4
+Garfield Weston Foundation,Seafarers UK,4
 Garfield Weston Foundation,Oxfordshire Community Foundation,3
 Garfield Weston Foundation,Pears Foundation,3
 Garfield Weston Foundation,Greater London Authority,3
-Garfield Weston Foundation,Tedworth Charitable Trust,2
-Garfield Weston Foundation,Trust for London,2
-Garfield Weston Foundation,Comic Relief,2
-Garfield Weston Foundation,Masonic Charitable Foundation,2
-Garfield Weston Foundation,Virgin Money Foundation,2
-Garfield Weston Foundation,Staples Trust,2
 Garfield Weston Foundation,Oxford City Council,2
-Garfield Weston Foundation,Three Guineas Trust,1
-Garfield Weston Foundation,ARCADIA,1
-Garfield Weston Foundation,Joseph Rowntree Foundation,1
-Garfield Weston Foundation,Road Safety Trust,1
-Garfield Weston Foundation,Birmingham City Council,1
+Garfield Weston Foundation,Virgin Money Foundation,2
+Garfield Weston Foundation,Comic Relief,2
+Garfield Weston Foundation,Tedworth Charitable Trust,2
+Garfield Weston Foundation,Staples Trust,2
+Garfield Weston Foundation,Trust for London,2
+Garfield Weston Foundation,Masonic Charitable Foundation,2
 Garfield Weston Foundation,London Borough of Barnet,1
-Garfield Weston Foundation,Culham St Gabriel's Trust,1
+Garfield Weston Foundation,Scottish Council For Voluntary Organisations,1
 Garfield Weston Foundation,Indigo Trust,1
-Garfield Weston Foundation,SCVO,1
+Garfield Weston Foundation,Birmingham City Council,1
+Garfield Weston Foundation,Three Guineas Trust,1
 Garfield Weston Foundation,John Moores Foundation,1
+Garfield Weston Foundation,Joseph Rowntree Foundation,1
+Garfield Weston Foundation,ARCADIA,1
+Garfield Weston Foundation,Road Safety Trust,1
+Garfield Weston Foundation,Culham St Gabriel's Trust,1
+Gatsby Charitable Foundation,Nesta,1
+Gatsby Charitable Foundation,Indigo Trust,1
 Gatsby Charitable Foundation,True Colours Trust,1
 Gatsby Charitable Foundation,Staples Trust,1
-Gatsby Charitable Foundation,Indigo Trust,1
-Gatsby Charitable Foundation,Nesta,1
 Gatsby Charitable Foundation,Tedworth Charitable Trust,1
 Gatsby Charitable Foundation,Woodward Charitable Trust,1
 Glasgow City Council,The Big Lottery Fund,3
 Glasgow City Council,The Robertson Trust,3
-Glasgow City Council,SCVO,2
-Glasgow City Council,The Tudor Trust,1
+Glasgow City Council,Scottish Council For Voluntary Organisations,2
 Glasgow City Council,Corra Foundation,1
+Glasgow City Council,The Tudor Trust,1
 Greater London Authority,The Big Lottery Fund,11
 Greater London Authority,Garfield Weston Foundation,3
 Greater London Authority,United St Saviour's Charity,3
 Greater London Authority,City Bridge Trust,2
-Greater London Authority,The Henry Smith Charity,1
-Greater London Authority,Co-operative Group,1
-Greater London Authority,Nesta,1
-Greater London Authority,The Tudor Trust,1
-Greater London Authority,The Blagrave Trust,1
-Greater London Authority,ARCADIA,1
+Greater London Authority,Lloyds Bank Foundation for England and Wales,1
 Greater London Authority,Sport England,1
 Greater London Authority,Quartet Community Foundation,1
-Greater London Authority,Trust for London,1
-Greater London Authority,Cheshire Community Foundation,1
 Greater London Authority,London Councils,1
-Greater London Authority,Lloyds Bank Foundation E&W,1
+Greater London Authority,The Tudor Trust,1
+Greater London Authority,ARCADIA,1
+Greater London Authority,The Blagrave Trust,1
+Greater London Authority,Co-operative Group,1
+Greater London Authority,Trust for London,1
+Greater London Authority,Nesta,1
+Greater London Authority,Cheshire Community Foundation,1
+Greater London Authority,The Henry Smith Charity,1
 Heart Of England Community Foundation,The Big Lottery Fund,55
 Heart Of England Community Foundation,Co-operative Group,16
 Heart Of England Community Foundation,Garfield Weston Foundation,10
 Heart Of England Community Foundation,Sport England,10
 Heart Of England Community Foundation,The Clothworkers Foundation,5
+Heart Of England Community Foundation,Lloyds Bank Foundation for England and Wales,4
 Heart Of England Community Foundation,Birmingham City Council,4
-Heart Of England Community Foundation,Lloyds Bank Foundation E&W,4
 Heart Of England Community Foundation,Somerset Community Foundation,3
-Heart Of England Community Foundation,The Tudor Trust,3
 Heart Of England Community Foundation,Woodward Charitable Trust,3
-Heart Of England Community Foundation,National Churches Trust,1
+Heart Of England Community Foundation,The Tudor Trust,3
+Heart Of England Community Foundation,Community Foundation serving Tyne & Wear and Northumberland,1
 Heart Of England Community Foundation,True Colours Trust,1
+Heart Of England Community Foundation,Essex Community Foundation,1
+Heart Of England Community Foundation,Masonic Charitable Foundation,1
+Heart Of England Community Foundation,The Dulverton Trust,1
+Heart Of England Community Foundation,Community Foundation for Surrey,1
+Heart Of England Community Foundation,Trust for London,1
+Heart Of England Community Foundation,Quartet Community Foundation,1
 Heart Of England Community Foundation,Sussex Community Foundation,1
 Heart Of England Community Foundation,Comic Relief,1
-Heart Of England Community Foundation,Community Foundation for Surrey,1
-Heart Of England Community Foundation,Quartet Community Foundation,1
-Heart Of England Community Foundation,The Dulverton Trust,1
-Heart Of England Community Foundation,Trust for London,1
-Heart Of England Community Foundation,"Community Foundation (Tyne, Wear & Nhbld)",1
-Heart Of England Community Foundation,Masonic Charitable Foundation,1
-Heart Of England Community Foundation,Essex Community Foundation,1
+Heart Of England Community Foundation,National Churches Trust,1
 Indigo Trust,The Big Lottery Fund,2
+Indigo Trust,Lloyds Bank Foundation for England and Wales,1
 Indigo Trust,A B Charitable Trust,1
-Indigo Trust,Woodward Charitable Trust,1
-Indigo Trust,Co-operative Group,1
-Indigo Trust,Tedworth Charitable Trust,1
-Indigo Trust,Esmee Fairbairn Foundation,1
 Indigo Trust,True Colours Trust,1
-Indigo Trust,Staples Trust,1
-Indigo Trust,Gatsby Charitable Foundation,1
+Indigo Trust,Co-operative Group,1
 Indigo Trust,Garfield Weston Foundation,1
-Indigo Trust,Lloyds Bank Foundation E&W,1
+Indigo Trust,Esmée Fairbairn Foundation,1
+Indigo Trust,Gatsby Charitable Foundation,1
+Indigo Trust,Staples Trust,1
+Indigo Trust,Tedworth Charitable Trust,1
+Indigo Trust,Woodward Charitable Trust,1
 Indigo Trust,City Bridge Trust,1
 John Moores Foundation,The Big Lottery Fund,11
 John Moores Foundation,Co-operative Group,6
-John Moores Foundation,The Henry Smith Charity,2
 John Moores Foundation,Sport England,2
-John Moores Foundation,Community Foundation for Surrey,1
-John Moores Foundation,The Clothworkers Foundation,1
+John Moores Foundation,The Henry Smith Charity,2
+John Moores Foundation,Lloyds Bank Foundation for England and Wales,1
 John Moores Foundation,The Tudor Trust,1
-John Moores Foundation,The Joseph Rank Trust,1
+John Moores Foundation,The Clothworkers Foundation,1
 John Moores Foundation,Garfield Weston Foundation,1
-John Moores Foundation,Lloyds Bank Foundation E&W,1
+John Moores Foundation,Community Foundation for Surrey,1
+John Moores Foundation,The Joseph Rank Trust,1
 Joseph Rowntree Charitable Trust,The Big Lottery Fund,8
-Joseph Rowntree Charitable Trust,Esmee Fairbairn Foundation,5
+Joseph Rowntree Charitable Trust,Esmée Fairbairn Foundation,5
 Joseph Rowntree Charitable Trust,The Tudor Trust,5
 Joseph Rowntree Charitable Trust,Trust for London,4
 Joseph Rowntree Charitable Trust,A B Charitable Trust,3
-Joseph Rowntree Charitable Trust,Lloyds Bank Foundation E&W,3
-Joseph Rowntree Charitable Trust,Tedworth Charitable Trust,2
+Joseph Rowntree Charitable Trust,Lloyds Bank Foundation for England and Wales,3
 Joseph Rowntree Charitable Trust,City Bridge Trust,2
-Joseph Rowntree Charitable Trust,Barrow Cadbury Trust,1
-Joseph Rowntree Charitable Trust,Quartet Community Foundation,1
+Joseph Rowntree Charitable Trust,Tedworth Charitable Trust,2
 Joseph Rowntree Charitable Trust,Nationwide Foundation,1
 Joseph Rowntree Charitable Trust,The David & Elaine Potter Foundation,1
+Joseph Rowntree Charitable Trust,Quartet Community Foundation,1
+Joseph Rowntree Charitable Trust,Barrow Cadbury Trust,1
 Joseph Rowntree Foundation,The Big Lottery Fund,5
 Joseph Rowntree Foundation,Two Ridings Community Foundation,3
+Joseph Rowntree Foundation,Lloyds Bank Foundation for England and Wales,2
 Joseph Rowntree Foundation,Co-operative Group,2
-Joseph Rowntree Foundation,Lloyds Bank Foundation E&W,2
-Joseph Rowntree Foundation,Somerset Community Foundation,1
-Joseph Rowntree Foundation,Masonic Charitable Foundation,1
-Joseph Rowntree Foundation,The Dunhill Medical Trust,1
 Joseph Rowntree Foundation,The Clothworkers Foundation,1
-Joseph Rowntree Foundation,Garfield Weston Foundation,1
 Joseph Rowntree Foundation,Essex Community Foundation,1
+Joseph Rowntree Foundation,Garfield Weston Foundation,1
+Joseph Rowntree Foundation,Masonic Charitable Foundation,1
+Joseph Rowntree Foundation,Somerset Community Foundation,1
+Joseph Rowntree Foundation,The Dunhill Medical Trust,1
 Lankelly Chase Foundation,Barrow Cadbury Trust,2
 Lankelly Chase Foundation,Co-operative Group,1
-Lankelly Chase Foundation,Sussex Community Foundation,1
+Lankelly Chase Foundation,The Big Lottery Fund,1
 Lankelly Chase Foundation,Sport England,1
 Lankelly Chase Foundation,The Tudor Trust,1
-Lankelly Chase Foundation,The Big Lottery Fund,1
+Lankelly Chase Foundation,Sussex Community Foundation,1
 Lankelly Chase Foundation,Somerset Community Foundation,1
-Lloyds Bank Foundation E&W,The Big Lottery Fund,91
-Lloyds Bank Foundation E&W,Co-operative Group,51
-Lloyds Bank Foundation E&W,Garfield Weston Foundation,32
-Lloyds Bank Foundation E&W,The Tudor Trust,19
-Lloyds Bank Foundation E&W,A B Charitable Trust,12
-Lloyds Bank Foundation E&W,Esmee Fairbairn Foundation,9
-Lloyds Bank Foundation E&W,Woodward Charitable Trust,9
-Lloyds Bank Foundation E&W,The Clothworkers Foundation,8
-Lloyds Bank Foundation E&W,City Bridge Trust,7
-Lloyds Bank Foundation E&W,Trust for London,4
-Lloyds Bank Foundation E&W,Heart Of England Community Foundation,4
-Lloyds Bank Foundation E&W,Masonic Charitable Foundation,3
-Lloyds Bank Foundation E&W,Joseph Rowntree Charitable Trust,3
-Lloyds Bank Foundation E&W,Cheshire Community Foundation,3
-Lloyds Bank Foundation E&W,Quartet Community Foundation,3
-Lloyds Bank Foundation E&W,The Henry Smith Charity,3
-Lloyds Bank Foundation E&W,Joseph Rowntree Foundation,2
-Lloyds Bank Foundation E&W,Essex Community Foundation,2
-Lloyds Bank Foundation E&W,Oxford City Council,2
-Lloyds Bank Foundation E&W,Virgin Money Foundation,2
-Lloyds Bank Foundation E&W,London Councils,2
-Lloyds Bank Foundation E&W,Somerset Community Foundation,2
-Lloyds Bank Foundation E&W,Community Foundation for Surrey,1
-Lloyds Bank Foundation E&W,Indigo Trust,1
-Lloyds Bank Foundation E&W,John Moores Foundation,1
-Lloyds Bank Foundation E&W,Barrow Cadbury Trust,1
-Lloyds Bank Foundation E&W,Devon Community Foundation,1
-Lloyds Bank Foundation E&W,Three Guineas Trust,1
-Lloyds Bank Foundation E&W,Sussex Community Foundation,1
-Lloyds Bank Foundation E&W,Two Ridings Community Foundation,1
-Lloyds Bank Foundation E&W,The Dunhill Medical Trust,1
-Lloyds Bank Foundation E&W,Greater London Authority,1
-Lloyds Bank Foundation E&W,"Community Foundation (Tyne, Wear & Nhbld)",1
+Lloyds Bank Foundation for England and Wales,The Big Lottery Fund,91
+Lloyds Bank Foundation for England and Wales,Co-operative Group,51
+Lloyds Bank Foundation for England and Wales,Garfield Weston Foundation,32
+Lloyds Bank Foundation for England and Wales,The Tudor Trust,19
+Lloyds Bank Foundation for England and Wales,A B Charitable Trust,12
+Lloyds Bank Foundation for England and Wales,Esmée Fairbairn Foundation,9
+Lloyds Bank Foundation for England and Wales,Woodward Charitable Trust,9
+Lloyds Bank Foundation for England and Wales,The Clothworkers Foundation,8
+Lloyds Bank Foundation for England and Wales,City Bridge Trust,7
+Lloyds Bank Foundation for England and Wales,Heart Of England Community Foundation,4
+Lloyds Bank Foundation for England and Wales,Trust for London,4
+Lloyds Bank Foundation for England and Wales,Cheshire Community Foundation,3
+Lloyds Bank Foundation for England and Wales,Masonic Charitable Foundation,3
+Lloyds Bank Foundation for England and Wales,Joseph Rowntree Charitable Trust,3
+Lloyds Bank Foundation for England and Wales,The Henry Smith Charity,3
+Lloyds Bank Foundation for England and Wales,Quartet Community Foundation,3
+Lloyds Bank Foundation for England and Wales,Virgin Money Foundation,2
+Lloyds Bank Foundation for England and Wales,Joseph Rowntree Foundation,2
+Lloyds Bank Foundation for England and Wales,Oxford City Council,2
+Lloyds Bank Foundation for England and Wales,Essex Community Foundation,2
+Lloyds Bank Foundation for England and Wales,London Councils,2
+Lloyds Bank Foundation for England and Wales,Somerset Community Foundation,2
+Lloyds Bank Foundation for England and Wales,Indigo Trust,1
+Lloyds Bank Foundation for England and Wales,Devon Community Foundation,1
+Lloyds Bank Foundation for England and Wales,Three Guineas Trust,1
+Lloyds Bank Foundation for England and Wales,John Moores Foundation,1
+Lloyds Bank Foundation for England and Wales,Community Foundation serving Tyne & Wear and Northumberland,1
+Lloyds Bank Foundation for England and Wales,Barrow Cadbury Trust,1
+Lloyds Bank Foundation for England and Wales,Two Ridings Community Foundation,1
+Lloyds Bank Foundation for England and Wales,Community Foundation for Surrey,1
+Lloyds Bank Foundation for England and Wales,Greater London Authority,1
+Lloyds Bank Foundation for England and Wales,The Dunhill Medical Trust,1
+Lloyds Bank Foundation for England and Wales,Sussex Community Foundation,1
 London Borough of Barnet,The Big Lottery Fund,4
 London Borough of Barnet,Co-operative Group,3
 London Borough of Barnet,City Bridge Trust,2
 London Borough of Barnet,Garfield Weston Foundation,1
 London Councils,Trust for London,3
+London Councils,Lloyds Bank Foundation for England and Wales,2
 London Councils,Quartet Community Foundation,2
-London Councils,Lloyds Bank Foundation E&W,2
-London Councils,Comic Relief,1
-London Councils,Barrow Cadbury Trust,1
-London Councils,Greater London Authority,1
 London Councils,The Big Lottery Fund,1
-London Councils,Esmee Fairbairn Foundation,1
-London Councils,The Clothworkers Foundation,1
 London Councils,City Bridge Trust,1
-Macc,The Henry Smith Charity,1
-Macc,Sport England,1
+London Councils,The Clothworkers Foundation,1
+London Councils,Comic Relief,1
+London Councils,Esmée Fairbairn Foundation,1
+London Councils,Greater London Authority,1
+London Councils,Barrow Cadbury Trust,1
 Macc,Co-operative Group,1
 Macc,The Big Lottery Fund,1
+Macc,Sport England,1
+Macc,The Henry Smith Charity,1
 Masonic Charitable Foundation,Co-operative Group,9
-Masonic Charitable Foundation,Lloyds Bank Foundation E&W,3
+Masonic Charitable Foundation,Lloyds Bank Foundation for England and Wales,3
 Masonic Charitable Foundation,The Big Lottery Fund,3
-Masonic Charitable Foundation,The Tudor Trust,2
 Masonic Charitable Foundation,Garfield Weston Foundation,2
+Masonic Charitable Foundation,The Tudor Trust,2
+Masonic Charitable Foundation,Two Ridings Community Foundation,1
+Masonic Charitable Foundation,Trust for London,1
+Masonic Charitable Foundation,Three Guineas Trust,1
+Masonic Charitable Foundation,Woodward Charitable Trust,1
+Masonic Charitable Foundation,Heart Of England Community Foundation,1
+Masonic Charitable Foundation,A B Charitable Trust,1
+Masonic Charitable Foundation,Esmée Fairbairn Foundation,1
+Masonic Charitable Foundation,Seafarers UK,1
 Masonic Charitable Foundation,Quartet Community Foundation,1
 Masonic Charitable Foundation,The Clothworkers Foundation,1
 Masonic Charitable Foundation,Joseph Rowntree Foundation,1
-Masonic Charitable Foundation,Heart Of England Community Foundation,1
-Masonic Charitable Foundation,Trust for London,1
 Masonic Charitable Foundation,The Henry Smith Charity,1
-Masonic Charitable Foundation,Two Ridings Community Foundation,1
-Masonic Charitable Foundation,Seafarers UK,1
-Masonic Charitable Foundation,Three Guineas Trust,1
-Masonic Charitable Foundation,A B Charitable Trust,1
-Masonic Charitable Foundation,Esmee Fairbairn Foundation,1
-Masonic Charitable Foundation,Woodward Charitable Trust,1
 Ministry of Justice,The Big Lottery Fund,2
 National Churches Trust,Garfield Weston Foundation,13
 National Churches Trust,Co-operative Group,4
-National Churches Trust,The Big Lottery Fund,2
 National Churches Trust,The Joseph Rank Trust,2
+National Churches Trust,The Big Lottery Fund,2
 National Churches Trust,Heart Of England Community Foundation,1
 National Churches Trust,City Bridge Trust,1
 Nationwide Foundation,Trust for London,1
-Nationwide Foundation,The Tudor Trust,1
 Nationwide Foundation,Joseph Rowntree Charitable Trust,1
-Nesta,Sport England,2
+Nationwide Foundation,The Tudor Trust,1
 Nesta,Walcot Foundation,2
+Nesta,Sport England,2
 Nesta,Tuixen Foundation,1
-Nesta,Barrow Cadbury Trust,1
-Nesta,Co-operative Group,1
-Nesta,Greater London Authority,1
 Nesta,Oxfordshire Community Foundation,1
 Nesta,Pears Foundation,1
-Nesta,The Tudor Trust,1
+Nesta,Co-operative Group,1
 Nesta,The Big Lottery Fund,1
+Nesta,Barrow Cadbury Trust,1
 Nesta,Gatsby Charitable Foundation,1
+Nesta,Greater London Authority,1
+Nesta,The Tudor Trust,1
 Oxford City Council,Oxfordshire Community Foundation,7
 Oxford City Council,The Big Lottery Fund,4
+Oxford City Council,Lloyds Bank Foundation for England and Wales,2
 Oxford City Council,Garfield Weston Foundation,2
-Oxford City Council,Lloyds Bank Foundation E&W,2
-Oxford City Council,A B Charitable Trust,1
+Oxford City Council,The Joseph Rank Trust,1
 Oxford City Council,Quartet Community Foundation,1
 Oxford City Council,Staples Trust,1
+Oxford City Council,A B Charitable Trust,1
 Oxford City Council,The Tudor Trust,1
-Oxford City Council,The Joseph Rank Trust,1
 Oxfordshire Community Foundation,The Big Lottery Fund,10
 Oxfordshire Community Foundation,Oxford City Council,7
 Oxfordshire Community Foundation,Co-operative Group,4
 Oxfordshire Community Foundation,Quartet Community Foundation,3
 Oxfordshire Community Foundation,Garfield Weston Foundation,3
 Oxfordshire Community Foundation,Sport England,2
-Oxfordshire Community Foundation,Woodward Charitable Trust,1
-Oxfordshire Community Foundation,Two Ridings Community Foundation,1
 Oxfordshire Community Foundation,Nesta,1
 Oxfordshire Community Foundation,Essex Community Foundation,1
+Oxfordshire Community Foundation,Woodward Charitable Trust,1
+Oxfordshire Community Foundation,Two Ridings Community Foundation,1
 Pears Foundation,Garfield Weston Foundation,3
-Pears Foundation,Co-operative Group,2
-Pears Foundation,Esmee Fairbairn Foundation,2
-Pears Foundation,The Tudor Trust,2
 Pears Foundation,The Big Lottery Fund,2
+Pears Foundation,Co-operative Group,2
+Pears Foundation,Esmée Fairbairn Foundation,2
+Pears Foundation,The Tudor Trust,2
 Pears Foundation,Nesta,1
-Pears Foundation,Tuixen Foundation,1
 Pears Foundation,The Dulverton Trust,1
-Pears Foundation,True Colours Trust,1
-Pears Foundation,City Bridge Trust,1
+Pears Foundation,Tuixen Foundation,1
 Pears Foundation,Three Guineas Trust,1
+Pears Foundation,City Bridge Trust,1
+Pears Foundation,True Colours Trust,1
 Quartet Community Foundation,Co-operative Group,53
 Quartet Community Foundation,The Big Lottery Fund,27
 Quartet Community Foundation,Garfield Weston Foundation,14
 Quartet Community Foundation,Essex Community Foundation,6
 Quartet Community Foundation,Somerset Community Foundation,5
 Quartet Community Foundation,The Tudor Trust,4
-Quartet Community Foundation,Lloyds Bank Foundation E&W,3
-Quartet Community Foundation,Woodward Charitable Trust,3
 Quartet Community Foundation,City Bridge Trust,3
 Quartet Community Foundation,Oxfordshire Community Foundation,3
-Quartet Community Foundation,The Clothworkers Foundation,2
+Quartet Community Foundation,Woodward Charitable Trust,3
+Quartet Community Foundation,Lloyds Bank Foundation for England and Wales,3
 Quartet Community Foundation,Cheshire Community Foundation,2
-Quartet Community Foundation,London Councils,2
+Quartet Community Foundation,The Clothworkers Foundation,2
 Quartet Community Foundation,Sport England,2
-Quartet Community Foundation,Oxford City Council,1
-Quartet Community Foundation,Wiltshire Community Foundation,1
+Quartet Community Foundation,London Councils,2
 Quartet Community Foundation,Heart Of England Community Foundation,1
+Quartet Community Foundation,Road Safety Trust,1
 Quartet Community Foundation,Greater London Authority,1
-Quartet Community Foundation,Masonic Charitable Foundation,1
+Quartet Community Foundation,Oxford City Council,1
+Quartet Community Foundation,True Colours Trust,1
 Quartet Community Foundation,Joseph Rowntree Charitable Trust,1
 Quartet Community Foundation,Two Ridings Community Foundation,1
+Quartet Community Foundation,Wiltshire Community Foundation,1
+Quartet Community Foundation,Esmée Fairbairn Foundation,1
 Quartet Community Foundation,Devon Community Foundation,1
-Quartet Community Foundation,Road Safety Trust,1
-Quartet Community Foundation,Esmee Fairbairn Foundation,1
-Quartet Community Foundation,True Colours Trust,1
+Quartet Community Foundation,Masonic Charitable Foundation,1
 Quartet Community Foundation,The Henry Smith Charity,1
 R S Macdonald Charitable Trust,The Robertson Trust,14
 R S Macdonald Charitable Trust,Corra Foundation,13
@@ -553,106 +553,106 @@ R S Macdonald Charitable Trust,Co-operative Group,10
 R S Macdonald Charitable Trust,The Big Lottery Fund,6
 R S Macdonald Charitable Trust,Garfield Weston Foundation,5
 R S Macdonald Charitable Trust,Woodward Charitable Trust,1
+R S Macdonald Charitable Trust,Scottish Council For Voluntary Organisations,1
 R S Macdonald Charitable Trust,The Clothworkers Foundation,1
-R S Macdonald Charitable Trust,SCVO,1
 Road Safety Trust,The Big Lottery Fund,2
-Road Safety Trust,Co-operative Group,1
 Road Safety Trust,Garfield Weston Foundation,1
+Road Safety Trust,Co-operative Group,1
 Road Safety Trust,Quartet Community Foundation,1
-Samworth Foundation,Esmee Fairbairn Foundation,3
+Samworth Foundation,Esmée Fairbairn Foundation,3
 Samworth Foundation,The Big Lottery Fund,2
 Samworth Foundation,Barrow Cadbury Trust,1
-SCVO,The Big Lottery Fund,10
-SCVO,The Robertson Trust,10
-SCVO,Co-operative Group,9
-SCVO,Corra Foundation,9
-SCVO,Glasgow City Council,2
-SCVO,A B Charitable Trust,1
-SCVO,The Henry Smith Charity,1
-SCVO,R S Macdonald Charitable Trust,1
-SCVO,Garfield Weston Foundation,1
-SCVO,The Clothworkers Foundation,1
+Scottish Council For Voluntary Organisations,The Big Lottery Fund,10
+Scottish Council For Voluntary Organisations,The Robertson Trust,10
+Scottish Council For Voluntary Organisations,Co-operative Group,9
+Scottish Council For Voluntary Organisations,Corra Foundation,9
+Scottish Council For Voluntary Organisations,Glasgow City Council,2
+Scottish Council For Voluntary Organisations,A B Charitable Trust,1
+Scottish Council For Voluntary Organisations,The Clothworkers Foundation,1
+Scottish Council For Voluntary Organisations,The Henry Smith Charity,1
+Scottish Council For Voluntary Organisations,R S Macdonald Charitable Trust,1
+Scottish Council For Voluntary Organisations,Garfield Weston Foundation,1
 Seafarers UK,The Big Lottery Fund,7
 Seafarers UK,Co-operative Group,5
 Seafarers UK,Garfield Weston Foundation,4
 Seafarers UK,Corra Foundation,2
-Seafarers UK,Devon Community Foundation,1
 Seafarers UK,Masonic Charitable Foundation,1
 Seafarers UK,City Bridge Trust,1
+Seafarers UK,Devon Community Foundation,1
 Somerset Community Foundation,Co-operative Group,17
 Somerset Community Foundation,The Big Lottery Fund,12
-Somerset Community Foundation,Garfield Weston Foundation,5
 Somerset Community Foundation,Quartet Community Foundation,5
+Somerset Community Foundation,Garfield Weston Foundation,5
 Somerset Community Foundation,Heart Of England Community Foundation,3
+Somerset Community Foundation,Lloyds Bank Foundation for England and Wales,2
+Somerset Community Foundation,Essex Community Foundation,2
 Somerset Community Foundation,The Tudor Trust,2
 Somerset Community Foundation,Sport England,2
-Somerset Community Foundation,Essex Community Foundation,2
-Somerset Community Foundation,Lloyds Bank Foundation E&W,2
-Somerset Community Foundation,Birmingham City Council,1
 Somerset Community Foundation,Lankelly Chase Foundation,1
 Somerset Community Foundation,Devon Community Foundation,1
 Somerset Community Foundation,Two Ridings Community Foundation,1
-Somerset Community Foundation,Joseph Rowntree Foundation,1
+Somerset Community Foundation,Birmingham City Council,1
 Somerset Community Foundation,City Bridge Trust,1
+Somerset Community Foundation,Joseph Rowntree Foundation,1
 Sport England,The Big Lottery Fund,33
 Sport England,Co-operative Group,19
 Sport England,Heart Of England Community Foundation,10
 Sport England,Comic Relief,4
 Sport England,Garfield Weston Foundation,4
 Sport England,Nesta,2
-Sport England,Oxfordshire Community Foundation,2
-Sport England,Quartet Community Foundation,2
 Sport England,John Moores Foundation,2
-Sport England,Somerset Community Foundation,2
+Sport England,Quartet Community Foundation,2
 Sport England,The Tudor Trust,2
-Sport England,Birmingham City Council,1
-Sport England,Devon Community Foundation,1
-Sport England,Woodward Charitable Trust,1
-Sport England,Macc,1
-Sport England,United St Saviour's Charity,1
-Sport England,Lankelly Chase Foundation,1
+Sport England,Oxfordshire Community Foundation,2
+Sport England,Somerset Community Foundation,2
 Sport England,Greater London Authority,1
-Sport England,The Clothworkers Foundation,1
-Sport England,Sussex Community Foundation,1
+Sport England,Devon Community Foundation,1
 Sport England,Two Ridings Community Foundation,1
+Sport England,Birmingham City Council,1
+Sport England,Woodward Charitable Trust,1
+Sport England,United St Saviour's Charity,1
+Sport England,Sussex Community Foundation,1
+Sport England,The Clothworkers Foundation,1
+Sport England,Lankelly Chase Foundation,1
+Sport England,Macc,1
 Staples Trust,Tedworth Charitable Trust,4
-Staples Trust,Woodward Charitable Trust,2
 Staples Trust,Garfield Weston Foundation,2
-Staples Trust,Tuixen Foundation,1
-Staples Trust,True Colours Trust,1
-Staples Trust,Indigo Trust,1
-Staples Trust,The Big Lottery Fund,1
-Staples Trust,Gatsby Charitable Foundation,1
+Staples Trust,Woodward Charitable Trust,2
 Staples Trust,Oxford City Council,1
+Staples Trust,True Colours Trust,1
+Staples Trust,Tuixen Foundation,1
+Staples Trust,The Big Lottery Fund,1
+Staples Trust,Indigo Trust,1
+Staples Trust,Gatsby Charitable Foundation,1
 Sussex Community Foundation,The Big Lottery Fund,29
 Sussex Community Foundation,Co-operative Group,18
 Sussex Community Foundation,Garfield Weston Foundation,4
 Sussex Community Foundation,Community Foundation for Surrey,2
-Sussex Community Foundation,Esmee Fairbairn Foundation,1
-Sussex Community Foundation,Lankelly Chase Foundation,1
-Sussex Community Foundation,The Henry Smith Charity,1
-Sussex Community Foundation,The Tudor Trust,1
-Sussex Community Foundation,Sport England,1
-Sussex Community Foundation,The Blagrave Trust,1
-Sussex Community Foundation,The Dulverton Trust,1
-Sussex Community Foundation,Two Ridings Community Foundation,1
+Sussex Community Foundation,Lloyds Bank Foundation for England and Wales,1
 Sussex Community Foundation,Heart Of England Community Foundation,1
-Sussex Community Foundation,Lloyds Bank Foundation E&W,1
+Sussex Community Foundation,Lankelly Chase Foundation,1
+Sussex Community Foundation,Esmée Fairbairn Foundation,1
+Sussex Community Foundation,Two Ridings Community Foundation,1
+Sussex Community Foundation,The Tudor Trust,1
+Sussex Community Foundation,The Dulverton Trust,1
+Sussex Community Foundation,The Blagrave Trust,1
+Sussex Community Foundation,Sport England,1
+Sussex Community Foundation,The Henry Smith Charity,1
 Tedworth Charitable Trust,Staples Trust,4
 Tedworth Charitable Trust,Woodward Charitable Trust,3
-Tedworth Charitable Trust,Joseph Rowntree Charitable Trust,2
 Tedworth Charitable Trust,The Big Lottery Fund,2
+Tedworth Charitable Trust,Joseph Rowntree Charitable Trust,2
 Tedworth Charitable Trust,Garfield Weston Foundation,2
-Tedworth Charitable Trust,Co-operative Group,1
 Tedworth Charitable Trust,Barrow Cadbury Trust,1
-Tedworth Charitable Trust,Esmee Fairbairn Foundation,1
-Tedworth Charitable Trust,True Colours Trust,1
-Tedworth Charitable Trust,Indigo Trust,1
-Tedworth Charitable Trust,Gatsby Charitable Foundation,1
 Tedworth Charitable Trust,The Tudor Trust,1
+Tedworth Charitable Trust,True Colours Trust,1
+Tedworth Charitable Trust,Co-operative Group,1
+Tedworth Charitable Trust,Gatsby Charitable Foundation,1
+Tedworth Charitable Trust,Indigo Trust,1
+Tedworth Charitable Trust,Esmée Fairbairn Foundation,1
 The Big Lottery Fund,Co-operative Group,500
 The Big Lottery Fund,Garfield Weston Foundation,206
-The Big Lottery Fund,Lloyds Bank Foundation E&W,91
+The Big Lottery Fund,Lloyds Bank Foundation for England and Wales,91
 The Big Lottery Fund,The Tudor Trust,77
 The Big Lottery Fund,The Robertson Trust,67
 The Big Lottery Fund,Heart Of England Community Foundation,55
@@ -660,360 +660,360 @@ The Big Lottery Fund,The Clothworkers Foundation,46
 The Big Lottery Fund,Corra Foundation,38
 The Big Lottery Fund,City Bridge Trust,36
 The Big Lottery Fund,Woodward Charitable Trust,34
-The Big Lottery Fund,Esmee Fairbairn Foundation,34
+The Big Lottery Fund,Esmée Fairbairn Foundation,34
 The Big Lottery Fund,Sport England,33
 The Big Lottery Fund,Sussex Community Foundation,29
 The Big Lottery Fund,Quartet Community Foundation,27
 The Big Lottery Fund,The Henry Smith Charity,26
-The Big Lottery Fund,"Community Foundation (Tyne, Wear & Nhbld)",21
+The Big Lottery Fund,Community Foundation serving Tyne & Wear and Northumberland,21
 The Big Lottery Fund,Trust for London,19
 The Big Lottery Fund,Essex Community Foundation,18
-The Big Lottery Fund,Community Foundation for Surrey,16
 The Big Lottery Fund,A B Charitable Trust,16
+The Big Lottery Fund,Community Foundation for Surrey,16
 The Big Lottery Fund,Cheshire Community Foundation,14
 The Big Lottery Fund,Two Ridings Community Foundation,14
 The Big Lottery Fund,Devon Community Foundation,13
 The Big Lottery Fund,Somerset Community Foundation,12
 The Big Lottery Fund,Greater London Authority,11
 The Big Lottery Fund,John Moores Foundation,11
-The Big Lottery Fund,SCVO,10
 The Big Lottery Fund,Oxfordshire Community Foundation,10
-The Big Lottery Fund,Virgin Money Foundation,8
+The Big Lottery Fund,Scottish Council For Voluntary Organisations,10
 The Big Lottery Fund,Joseph Rowntree Charitable Trust,8
+The Big Lottery Fund,Virgin Money Foundation,8
 The Big Lottery Fund,True Colours Trust,7
 The Big Lottery Fund,The Joseph Rank Trust,7
 The Big Lottery Fund,Seafarers UK,7
+The Big Lottery Fund,The Dulverton Trust,6
 The Big Lottery Fund,R S Macdonald Charitable Trust,6
 The Big Lottery Fund,Comic Relief,6
-The Big Lottery Fund,The Dulverton Trust,6
-The Big Lottery Fund,United St Saviour's Charity,5
 The Big Lottery Fund,Joseph Rowntree Foundation,5
-The Big Lottery Fund,The Dunhill Medical Trust,4
+The Big Lottery Fund,United St Saviour's Charity,5
 The Big Lottery Fund,Tuixen Foundation,4
-The Big Lottery Fund,London Borough of Barnet,4
+The Big Lottery Fund,The Dunhill Medical Trust,4
 The Big Lottery Fund,Oxford City Council,4
-The Big Lottery Fund,Masonic Charitable Foundation,3
-The Big Lottery Fund,The Blagrave Trust,3
-The Big Lottery Fund,Barrow Cadbury Trust,3
-The Big Lottery Fund,Wiltshire Community Foundation,3
+The Big Lottery Fund,London Borough of Barnet,4
 The Big Lottery Fund,Trafford Housing Trust Social Investment,3
-The Big Lottery Fund,Glasgow City Council,3
+The Big Lottery Fund,Wiltshire Community Foundation,3
 The Big Lottery Fund,Three Guineas Trust,3
+The Big Lottery Fund,Glasgow City Council,3
+The Big Lottery Fund,Masonic Charitable Foundation,3
+The Big Lottery Fund,Barrow Cadbury Trust,3
+The Big Lottery Fund,The Blagrave Trust,3
+The Big Lottery Fund,Walcot Foundation,2
 The Big Lottery Fund,Samworth Foundation,2
 The Big Lottery Fund,Pears Foundation,2
-The Big Lottery Fund,Walcot Foundation,2
-The Big Lottery Fund,National Churches Trust,2
-The Big Lottery Fund,Birmingham City Council,2
 The Big Lottery Fund,Ministry of Justice,2
-The Big Lottery Fund,Tedworth Charitable Trust,2
 The Big Lottery Fund,Indigo Trust,2
+The Big Lottery Fund,National Churches Trust,2
+The Big Lottery Fund,Tedworth Charitable Trust,2
+The Big Lottery Fund,Birmingham City Council,2
 The Big Lottery Fund,Road Safety Trust,2
-The Big Lottery Fund,Nesta,1
-The Big Lottery Fund,London Councils,1
-The Big Lottery Fund,Lankelly Chase Foundation,1
-The Big Lottery Fund,Staples Trust,1
-The Big Lottery Fund,Culham St Gabriel's Trust,1
 The Big Lottery Fund,Macc,1
+The Big Lottery Fund,Culham St Gabriel's Trust,1
+The Big Lottery Fund,London Councils,1
 The Big Lottery Fund,The David & Elaine Potter Foundation,1
+The Big Lottery Fund,Lankelly Chase Foundation,1
+The Big Lottery Fund,Nesta,1
+The Big Lottery Fund,Staples Trust,1
 The Blagrave Trust,The Big Lottery Fund,3
-The Blagrave Trust,Esmee Fairbairn Foundation,2
-The Blagrave Trust,Community Foundation for Surrey,1
+The Blagrave Trust,Esmée Fairbairn Foundation,2
 The Blagrave Trust,The Dulverton Trust,1
-The Blagrave Trust,Wiltshire Community Foundation,1
-The Blagrave Trust,Sussex Community Foundation,1
 The Blagrave Trust,Trust for London,1
+The Blagrave Trust,Community Foundation for Surrey,1
+The Blagrave Trust,Sussex Community Foundation,1
+The Blagrave Trust,Wiltshire Community Foundation,1
+The Blagrave Trust,Greater London Authority,1
 The Blagrave Trust,Cheshire Community Foundation,1
 The Blagrave Trust,The Tudor Trust,1
-The Blagrave Trust,Greater London Authority,1
 The Clothworkers Foundation,The Big Lottery Fund,46
 The Clothworkers Foundation,Garfield Weston Foundation,39
 The Clothworkers Foundation,Co-operative Group,32
-The Clothworkers Foundation,Lloyds Bank Foundation E&W,8
+The Clothworkers Foundation,Lloyds Bank Foundation for England and Wales,8
 The Clothworkers Foundation,The Robertson Trust,6
 The Clothworkers Foundation,Heart Of England Community Foundation,5
 The Clothworkers Foundation,The Tudor Trust,5
-The Clothworkers Foundation,The Dulverton Trust,4
+The Clothworkers Foundation,Corra Foundation,4
 The Clothworkers Foundation,Trust for London,4
 The Clothworkers Foundation,City Bridge Trust,4
-The Clothworkers Foundation,Corra Foundation,4
+The Clothworkers Foundation,The Dulverton Trust,4
 The Clothworkers Foundation,A B Charitable Trust,3
 The Clothworkers Foundation,The Dunhill Medical Trust,3
-The Clothworkers Foundation,Two Ridings Community Foundation,3
 The Clothworkers Foundation,The Henry Smith Charity,3
+The Clothworkers Foundation,Two Ridings Community Foundation,3
+The Clothworkers Foundation,Community Foundation serving Tyne & Wear and Northumberland,2
 The Clothworkers Foundation,Community Foundation for Surrey,2
-The Clothworkers Foundation,Essex Community Foundation,2
-The Clothworkers Foundation,"Community Foundation (Tyne, Wear & Nhbld)",2
-The Clothworkers Foundation,Quartet Community Foundation,2
 The Clothworkers Foundation,Comic Relief,2
-The Clothworkers Foundation,SCVO,1
-The Clothworkers Foundation,Joseph Rowntree Foundation,1
-The Clothworkers Foundation,Cheshire Community Foundation,1
-The Clothworkers Foundation,Esmee Fairbairn Foundation,1
-The Clothworkers Foundation,Tuixen Foundation,1
-The Clothworkers Foundation,London Councils,1
-The Clothworkers Foundation,Woodward Charitable Trust,1
-The Clothworkers Foundation,Trafford Metropolitan Borough Council,1
-The Clothworkers Foundation,R S Macdonald Charitable Trust,1
+The Clothworkers Foundation,Essex Community Foundation,2
+The Clothworkers Foundation,Quartet Community Foundation,2
 The Clothworkers Foundation,Three Guineas Trust,1
-The Clothworkers Foundation,Devon Community Foundation,1
-The Clothworkers Foundation,Masonic Charitable Foundation,1
-The Clothworkers Foundation,John Moores Foundation,1
+The Clothworkers Foundation,Cheshire Community Foundation,1
 The Clothworkers Foundation,Sport England,1
+The Clothworkers Foundation,Joseph Rowntree Foundation,1
+The Clothworkers Foundation,Tuixen Foundation,1
+The Clothworkers Foundation,Masonic Charitable Foundation,1
+The Clothworkers Foundation,Scottish Council For Voluntary Organisations,1
+The Clothworkers Foundation,Devon Community Foundation,1
+The Clothworkers Foundation,Esmée Fairbairn Foundation,1
+The Clothworkers Foundation,London Councils,1
+The Clothworkers Foundation,Trafford Metropolitan Borough Council,1
 The Clothworkers Foundation,Trafford Housing Trust Social Investment,1
-The David & Elaine Potter Foundation,Esmee Fairbairn Foundation,2
-The David & Elaine Potter Foundation,Joseph Rowntree Charitable Trust,1
-The David & Elaine Potter Foundation,Tuixen Foundation,1
-The David & Elaine Potter Foundation,The Dulverton Trust,1
+The Clothworkers Foundation,R S Macdonald Charitable Trust,1
+The Clothworkers Foundation,John Moores Foundation,1
+The Clothworkers Foundation,Woodward Charitable Trust,1
+The David & Elaine Potter Foundation,Esmée Fairbairn Foundation,2
 The David & Elaine Potter Foundation,The Big Lottery Fund,1
+The David & Elaine Potter Foundation,The Dulverton Trust,1
+The David & Elaine Potter Foundation,Tuixen Foundation,1
 The David & Elaine Potter Foundation,City Bridge Trust,1
+The David & Elaine Potter Foundation,Joseph Rowntree Charitable Trust,1
 The Dulverton Trust,Garfield Weston Foundation,17
 The Dulverton Trust,The Big Lottery Fund,6
+The Dulverton Trust,The Tudor Trust,4
 The Dulverton Trust,The Clothworkers Foundation,4
 The Dulverton Trust,The Robertson Trust,4
-The Dulverton Trust,The Tudor Trust,4
+The Dulverton Trust,Esmée Fairbairn Foundation,3
 The Dulverton Trust,Co-operative Group,3
-The Dulverton Trust,Esmee Fairbairn Foundation,3
-The Dulverton Trust,Tuixen Foundation,2
 The Dulverton Trust,Essex Community Foundation,2
-The Dulverton Trust,The Joseph Rank Trust,1
-The Dulverton Trust,The David & Elaine Potter Foundation,1
-The Dulverton Trust,The Blagrave Trust,1
-The Dulverton Trust,Sussex Community Foundation,1
+The Dulverton Trust,Tuixen Foundation,2
 The Dulverton Trust,Culham St Gabriel's Trust,1
-The Dulverton Trust,Pears Foundation,1
-The Dulverton Trust,Heart Of England Community Foundation,1
-The Dulverton Trust,Trust for London,1
 The Dulverton Trust,Cheshire Community Foundation,1
+The Dulverton Trust,The Blagrave Trust,1
+The Dulverton Trust,Heart Of England Community Foundation,1
+The Dulverton Trust,The David & Elaine Potter Foundation,1
+The Dulverton Trust,Sussex Community Foundation,1
+The Dulverton Trust,Trust for London,1
+The Dulverton Trust,Pears Foundation,1
+The Dulverton Trust,The Joseph Rank Trust,1
 The Dunhill Medical Trust,Co-operative Group,5
 The Dunhill Medical Trust,Garfield Weston Foundation,5
 The Dunhill Medical Trust,The Big Lottery Fund,4
 The Dunhill Medical Trust,The Clothworkers Foundation,3
 The Dunhill Medical Trust,City Bridge Trust,2
+The Dunhill Medical Trust,Lloyds Bank Foundation for England and Wales,1
 The Dunhill Medical Trust,Joseph Rowntree Foundation,1
-The Dunhill Medical Trust,Lloyds Bank Foundation E&W,1
 The Henry Smith Charity,The Big Lottery Fund,26
 The Henry Smith Charity,Co-operative Group,12
 The Henry Smith Charity,Garfield Weston Foundation,9
-The Henry Smith Charity,"Community Foundation (Tyne, Wear & Nhbld)",3
-The Henry Smith Charity,Lloyds Bank Foundation E&W,3
-The Henry Smith Charity,The Clothworkers Foundation,3
+The Henry Smith Charity,Lloyds Bank Foundation for England and Wales,3
 The Henry Smith Charity,The Tudor Trust,3
+The Henry Smith Charity,The Clothworkers Foundation,3
+The Henry Smith Charity,Community Foundation serving Tyne & Wear and Northumberland,3
 The Henry Smith Charity,City Bridge Trust,3
 The Henry Smith Charity,John Moores Foundation,2
-The Henry Smith Charity,Macc,1
-The Henry Smith Charity,Sussex Community Foundation,1
-The Henry Smith Charity,Esmee Fairbairn Foundation,1
-The Henry Smith Charity,Woodward Charitable Trust,1
-The Henry Smith Charity,Corra Foundation,1
-The Henry Smith Charity,United St Saviour's Charity,1
-The Henry Smith Charity,Quartet Community Foundation,1
-The Henry Smith Charity,SCVO,1
 The Henry Smith Charity,Greater London Authority,1
+The Henry Smith Charity,Scottish Council For Voluntary Organisations,1
+The Henry Smith Charity,Woodward Charitable Trust,1
 The Henry Smith Charity,The Robertson Trust,1
-The Henry Smith Charity,Masonic Charitable Foundation,1
+The Henry Smith Charity,United St Saviour's Charity,1
 The Henry Smith Charity,A B Charitable Trust,1
+The Henry Smith Charity,Masonic Charitable Foundation,1
+The Henry Smith Charity,Esmée Fairbairn Foundation,1
+The Henry Smith Charity,Corra Foundation,1
+The Henry Smith Charity,Quartet Community Foundation,1
+The Henry Smith Charity,Sussex Community Foundation,1
+The Henry Smith Charity,Macc,1
 The Joseph Rank Trust,Garfield Weston Foundation,13
 The Joseph Rank Trust,The Big Lottery Fund,7
 The Joseph Rank Trust,Co-operative Group,6
 The Joseph Rank Trust,National Churches Trust,2
-The Joseph Rank Trust,Woodward Charitable Trust,1
 The Joseph Rank Trust,The Dulverton Trust,1
-The Joseph Rank Trust,John Moores Foundation,1
 The Joseph Rank Trust,Oxford City Council,1
-The Joseph Rank Trust,The Robertson Trust,1
+The Joseph Rank Trust,John Moores Foundation,1
 The Joseph Rank Trust,Corra Foundation,1
+The Joseph Rank Trust,Woodward Charitable Trust,1
+The Joseph Rank Trust,The Robertson Trust,1
 The Robertson Trust,The Big Lottery Fund,67
 The Robertson Trust,Co-operative Group,59
 The Robertson Trust,Corra Foundation,49
 The Robertson Trust,Garfield Weston Foundation,21
 The Robertson Trust,R S Macdonald Charitable Trust,14
-The Robertson Trust,SCVO,10
+The Robertson Trust,Scottish Council For Voluntary Organisations,10
 The Robertson Trust,The Tudor Trust,9
 The Robertson Trust,The Clothworkers Foundation,6
 The Robertson Trust,The Dulverton Trust,4
 The Robertson Trust,Glasgow City Council,3
 The Robertson Trust,A B Charitable Trust,2
-The Robertson Trust,The Henry Smith Charity,1
-The Robertson Trust,Esmee Fairbairn Foundation,1
 The Robertson Trust,The Joseph Rank Trust,1
 The Robertson Trust,True Colours Trust,1
+The Robertson Trust,Esmée Fairbairn Foundation,1
+The Robertson Trust,The Henry Smith Charity,1
 The Tudor Trust,The Big Lottery Fund,77
 The Tudor Trust,Co-operative Group,41
 The Tudor Trust,Garfield Weston Foundation,28
-The Tudor Trust,Lloyds Bank Foundation E&W,19
-The Tudor Trust,Esmee Fairbairn Foundation,12
+The Tudor Trust,Lloyds Bank Foundation for England and Wales,19
+The Tudor Trust,Esmée Fairbairn Foundation,12
 The Tudor Trust,City Bridge Trust,11
 The Tudor Trust,The Robertson Trust,9
 The Tudor Trust,Trust for London,6
-The Tudor Trust,The Clothworkers Foundation,5
 The Tudor Trust,Woodward Charitable Trust,5
+The Tudor Trust,The Clothworkers Foundation,5
 The Tudor Trust,Joseph Rowntree Charitable Trust,5
 The Tudor Trust,Quartet Community Foundation,4
-The Tudor Trust,A B Charitable Trust,4
 The Tudor Trust,The Dulverton Trust,4
-The Tudor Trust,"Community Foundation (Tyne, Wear & Nhbld)",3
+The Tudor Trust,A B Charitable Trust,4
 The Tudor Trust,Heart Of England Community Foundation,3
+The Tudor Trust,Community Foundation serving Tyne & Wear and Northumberland,3
 The Tudor Trust,The Henry Smith Charity,3
-The Tudor Trust,Barrow Cadbury Trust,2
-The Tudor Trust,Comic Relief,2
-The Tudor Trust,Masonic Charitable Foundation,2
 The Tudor Trust,Somerset Community Foundation,2
+The Tudor Trust,Barrow Cadbury Trust,2
+The Tudor Trust,Pears Foundation,2
+The Tudor Trust,Comic Relief,2
 The Tudor Trust,Corra Foundation,2
 The Tudor Trust,Sport England,2
-The Tudor Trust,Pears Foundation,2
-The Tudor Trust,Devon Community Foundation,1
-The Tudor Trust,The Blagrave Trust,1
-The Tudor Trust,Glasgow City Council,1
+The Tudor Trust,Masonic Charitable Foundation,2
+The Tudor Trust,Nesta,1
 The Tudor Trust,Cheshire Community Foundation,1
 The Tudor Trust,Tedworth Charitable Trust,1
-The Tudor Trust,Culham St Gabriel's Trust,1
-The Tudor Trust,Lankelly Chase Foundation,1
-The Tudor Trust,John Moores Foundation,1
-The Tudor Trust,Sussex Community Foundation,1
-The Tudor Trust,Nationwide Foundation,1
-The Tudor Trust,Nesta,1
-The Tudor Trust,Greater London Authority,1
-The Tudor Trust,United St Saviour's Charity,1
-The Tudor Trust,Virgin Money Foundation,1
+The Tudor Trust,Glasgow City Council,1
 The Tudor Trust,Oxford City Council,1
+The Tudor Trust,Culham St Gabriel's Trust,1
+The Tudor Trust,Greater London Authority,1
+The Tudor Trust,The Blagrave Trust,1
+The Tudor Trust,Nationwide Foundation,1
+The Tudor Trust,Devon Community Foundation,1
+The Tudor Trust,Virgin Money Foundation,1
+The Tudor Trust,Sussex Community Foundation,1
+The Tudor Trust,Lankelly Chase Foundation,1
+The Tudor Trust,United St Saviour's Charity,1
+The Tudor Trust,John Moores Foundation,1
 Three Guineas Trust,Co-operative Group,3
 Three Guineas Trust,The Big Lottery Fund,3
+Three Guineas Trust,Lloyds Bank Foundation for England and Wales,1
 Three Guineas Trust,A B Charitable Trust,1
-Three Guineas Trust,Masonic Charitable Foundation,1
-Three Guineas Trust,Trust for London,1
+Three Guineas Trust,True Colours Trust,1
 Three Guineas Trust,Pears Foundation,1
 Three Guineas Trust,The Clothworkers Foundation,1
-Three Guineas Trust,True Colours Trust,1
-Three Guineas Trust,"Community Foundation (Tyne, Wear & Nhbld)",1
+Three Guineas Trust,Trust for London,1
 Three Guineas Trust,Garfield Weston Foundation,1
-Three Guineas Trust,Lloyds Bank Foundation E&W,1
+Three Guineas Trust,Masonic Charitable Foundation,1
+Three Guineas Trust,Community Foundation serving Tyne & Wear and Northumberland,1
 Trafford Housing Trust Social Investment,Trafford Metropolitan Borough Council,7
 Trafford Housing Trust Social Investment,The Big Lottery Fund,3
-Trafford Housing Trust Social Investment,The Clothworkers Foundation,1
 Trafford Housing Trust Social Investment,Co-operative Group,1
+Trafford Housing Trust Social Investment,The Clothworkers Foundation,1
 Trafford Metropolitan Borough Council,Trafford Housing Trust Social Investment,7
 Trafford Metropolitan Borough Council,The Clothworkers Foundation,1
 True Colours Trust,The Big Lottery Fund,7
 True Colours Trust,Garfield Weston Foundation,4
 True Colours Trust,Co-operative Group,3
 True Colours Trust,Woodward Charitable Trust,2
-True Colours Trust,Gatsby Charitable Foundation,1
-True Colours Trust,Indigo Trust,1
+True Colours Trust,Heart Of England Community Foundation,1
+True Colours Trust,Pears Foundation,1
 True Colours Trust,Staples Trust,1
+True Colours Trust,Indigo Trust,1
+True Colours Trust,Tuixen Foundation,1
+True Colours Trust,Three Guineas Trust,1
+True Colours Trust,Community Foundation for Surrey,1
+True Colours Trust,The Robertson Trust,1
+True Colours Trust,Community Foundation serving Tyne & Wear and Northumberland,1
+True Colours Trust,Essex Community Foundation,1
+True Colours Trust,Gatsby Charitable Foundation,1
+True Colours Trust,Esmée Fairbairn Foundation,1
 True Colours Trust,Quartet Community Foundation,1
 True Colours Trust,Tedworth Charitable Trust,1
-True Colours Trust,Tuixen Foundation,1
-True Colours Trust,Community Foundation for Surrey,1
-True Colours Trust,Three Guineas Trust,1
-True Colours Trust,The Robertson Trust,1
-True Colours Trust,"Community Foundation (Tyne, Wear & Nhbld)",1
-True Colours Trust,Esmee Fairbairn Foundation,1
-True Colours Trust,Pears Foundation,1
-True Colours Trust,Heart Of England Community Foundation,1
-True Colours Trust,Essex Community Foundation,1
 Trust for London,The Big Lottery Fund,19
-Trust for London,Esmee Fairbairn Foundation,8
+Trust for London,Esmée Fairbairn Foundation,8
 Trust for London,City Bridge Trust,7
 Trust for London,A B Charitable Trust,6
 Trust for London,The Tudor Trust,6
+Trust for London,Lloyds Bank Foundation for England and Wales,4
 Trust for London,Co-operative Group,4
-Trust for London,Lloyds Bank Foundation E&W,4
 Trust for London,The Clothworkers Foundation,4
 Trust for London,Joseph Rowntree Charitable Trust,4
-Trust for London,Barrow Cadbury Trust,3
 Trust for London,London Councils,3
-Trust for London,Walcot Foundation,2
+Trust for London,Barrow Cadbury Trust,3
 Trust for London,Garfield Weston Foundation,2
+Trust for London,Walcot Foundation,2
 Trust for London,Three Guineas Trust,1
-Trust for London,The Blagrave Trust,1
-Trust for London,United St Saviour's Charity,1
 Trust for London,The Dulverton Trust,1
 Trust for London,Heart Of England Community Foundation,1
+Trust for London,The Blagrave Trust,1
 Trust for London,Nationwide Foundation,1
+Trust for London,United St Saviour's Charity,1
+Trust for London,Comic Relief,1
 Trust for London,Greater London Authority,1
 Trust for London,Masonic Charitable Foundation,1
-Trust for London,Comic Relief,1
 Tuixen Foundation,Garfield Weston Foundation,5
 Tuixen Foundation,The Big Lottery Fund,4
 Tuixen Foundation,The Dulverton Trust,2
-Tuixen Foundation,A B Charitable Trust,1
-Tuixen Foundation,Co-operative Group,1
-Tuixen Foundation,Esmee Fairbairn Foundation,1
-Tuixen Foundation,The David & Elaine Potter Foundation,1
-Tuixen Foundation,Nesta,1
-Tuixen Foundation,ZING,1
-Tuixen Foundation,Pears Foundation,1
 Tuixen Foundation,True Colours Trust,1
-Tuixen Foundation,Staples Trust,1
+Tuixen Foundation,Pears Foundation,1
 Tuixen Foundation,The Clothworkers Foundation,1
+Tuixen Foundation,Esmée Fairbairn Foundation,1
+Tuixen Foundation,A B Charitable Trust,1
+Tuixen Foundation,Nesta,1
+Tuixen Foundation,The David & Elaine Potter Foundation,1
 Tuixen Foundation,City Bridge Trust,1
+Tuixen Foundation,Co-operative Group,1
+Tuixen Foundation,Staples Trust,1
+Tuixen Foundation,ZING,1
 Two Ridings Community Foundation,The Big Lottery Fund,14
 Two Ridings Community Foundation,Co-operative Group,13
 Two Ridings Community Foundation,Garfield Weston Foundation,5
 Two Ridings Community Foundation,Joseph Rowntree Foundation,3
 Two Ridings Community Foundation,The Clothworkers Foundation,3
 Two Ridings Community Foundation,Essex Community Foundation,2
-Two Ridings Community Foundation,Community Foundation for Surrey,1
 Two Ridings Community Foundation,Masonic Charitable Foundation,1
-Two Ridings Community Foundation,Esmee Fairbairn Foundation,1
-Two Ridings Community Foundation,Sussex Community Foundation,1
-Two Ridings Community Foundation,Somerset Community Foundation,1
 Two Ridings Community Foundation,Oxfordshire Community Foundation,1
 Two Ridings Community Foundation,Quartet Community Foundation,1
+Two Ridings Community Foundation,Esmée Fairbairn Foundation,1
+Two Ridings Community Foundation,Sussex Community Foundation,1
+Two Ridings Community Foundation,Somerset Community Foundation,1
+Two Ridings Community Foundation,Community Foundation for Surrey,1
 Two Ridings Community Foundation,Sport England,1
-Two Ridings Community Foundation,Lloyds Bank Foundation E&W,1
+Two Ridings Community Foundation,Lloyds Bank Foundation for England and Wales,1
 United St Saviour's Charity,The Big Lottery Fund,5
 United St Saviour's Charity,Co-operative Group,3
 United St Saviour's Charity,Greater London Authority,3
 United St Saviour's Charity,City Bridge Trust,2
-United St Saviour's Charity,The Henry Smith Charity,1
 United St Saviour's Charity,A B Charitable Trust,1
-United St Saviour's Charity,Trust for London,1
-United St Saviour's Charity,Sport England,1
 United St Saviour's Charity,The Tudor Trust,1
+United St Saviour's Charity,Sport England,1
+United St Saviour's Charity,Trust for London,1
 United St Saviour's Charity,Walcot Foundation,1
+United St Saviour's Charity,The Henry Smith Charity,1
 Virgin Money Foundation,The Big Lottery Fund,8
-Virgin Money Foundation,"Community Foundation (Tyne, Wear & Nhbld)",7
-Virgin Money Foundation,Woodward Charitable Trust,2
+Virgin Money Foundation,Community Foundation serving Tyne & Wear and Northumberland,7
+Virgin Money Foundation,Lloyds Bank Foundation for England and Wales,2
 Virgin Money Foundation,Garfield Weston Foundation,2
-Virgin Money Foundation,Lloyds Bank Foundation E&W,2
+Virgin Money Foundation,Woodward Charitable Trust,2
 Virgin Money Foundation,Co-operative Group,1
 Virgin Money Foundation,The Tudor Trust,1
 Walcot Foundation,Trust for London,2
+Walcot Foundation,Nesta,2
 Walcot Foundation,Co-operative Group,2
 Walcot Foundation,The Big Lottery Fund,2
-Walcot Foundation,Nesta,2
 Walcot Foundation,United St Saviour's Charity,1
 Wiltshire Community Foundation,Co-operative Group,6
 Wiltshire Community Foundation,The Big Lottery Fund,3
 Wiltshire Community Foundation,The Blagrave Trust,1
-Wiltshire Community Foundation,Quartet Community Foundation,1
 Wiltshire Community Foundation,Essex Community Foundation,1
+Wiltshire Community Foundation,Quartet Community Foundation,1
 Woodward Charitable Trust,The Big Lottery Fund,34
 Woodward Charitable Trust,Co-operative Group,27
 Woodward Charitable Trust,Garfield Weston Foundation,15
-Woodward Charitable Trust,Lloyds Bank Foundation E&W,9
+Woodward Charitable Trust,Lloyds Bank Foundation for England and Wales,9
 Woodward Charitable Trust,The Tudor Trust,5
 Woodward Charitable Trust,Heart Of England Community Foundation,3
-Woodward Charitable Trust,Quartet Community Foundation,3
 Woodward Charitable Trust,Tedworth Charitable Trust,3
-Woodward Charitable Trust,"Community Foundation (Tyne, Wear & Nhbld)",3
+Woodward Charitable Trust,Quartet Community Foundation,3
+Woodward Charitable Trust,Community Foundation serving Tyne & Wear and Northumberland,3
+Woodward Charitable Trust,True Colours Trust,2
+Woodward Charitable Trust,Essex Community Foundation,2
 Woodward Charitable Trust,Staples Trust,2
 Woodward Charitable Trust,Community Foundation for Surrey,2
-Woodward Charitable Trust,Essex Community Foundation,2
-Woodward Charitable Trust,True Colours Trust,2
 Woodward Charitable Trust,Virgin Money Foundation,2
-Woodward Charitable Trust,A B Charitable Trust,1
-Woodward Charitable Trust,Masonic Charitable Foundation,1
-Woodward Charitable Trust,Corra Foundation,1
-Woodward Charitable Trust,R S Macdonald Charitable Trust,1
 Woodward Charitable Trust,Oxfordshire Community Foundation,1
-Woodward Charitable Trust,City Bridge Trust,1
 Woodward Charitable Trust,Sport England,1
-Woodward Charitable Trust,Devon Community Foundation,1
-Woodward Charitable Trust,Indigo Trust,1
-Woodward Charitable Trust,The Clothworkers Foundation,1
-Woodward Charitable Trust,Gatsby Charitable Foundation,1
 Woodward Charitable Trust,The Joseph Rank Trust,1
+Woodward Charitable Trust,City Bridge Trust,1
+Woodward Charitable Trust,R S Macdonald Charitable Trust,1
+Woodward Charitable Trust,Corra Foundation,1
+Woodward Charitable Trust,A B Charitable Trust,1
+Woodward Charitable Trust,The Clothworkers Foundation,1
+Woodward Charitable Trust,Devon Community Foundation,1
+Woodward Charitable Trust,Masonic Charitable Foundation,1
+Woodward Charitable Trust,Indigo Trust,1
+Woodward Charitable Trust,Gatsby Charitable Foundation,1
 Woodward Charitable Trust,The Henry Smith Charity,1
 ZING,Tuixen Foundation,1
